@@ -1,6 +1,6 @@
-# rubocop_autofix_changes.sh
+# RuboCop Auto-Fix Script for Rails project
 
-## 🚀 RuboCop Auto-Fix Script for Rails project — Quick Setup Guide
+## 🚀  — Quick Setup Guide
 
 ### 📝 Step 1: Save the Script
 
